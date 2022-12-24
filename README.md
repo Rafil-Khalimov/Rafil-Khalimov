@@ -16,4 +16,21 @@
     <div align="center">
       Welcome, friend! 
       </h1>
+    <div id="header" align="center">
+      <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200" height="300"/>
+    </div>
+    👨‍💻My name is Rafil - and I'm a crypto-enthusiast :)
+    
+    Cryptocurrency is my hobby and work to which I devote all my time.
+     👨‍🎓I'm a graduate of the School of Ambassadors.
+    
+    My main areas of interest in the crypto world:
+    ☑️Ambassador programs.
+    ☑️Test networks
+    ☑️Community management
+    📈I am also an investor and participate in ICOs of crypto projects that interest me.
+    ⚓My main skills are:
+    🔈I speak Russian, English and Turkish.
+    🥇Design and marketing skills
+    🧑‍💻Technical skills to help set up nodes
     
